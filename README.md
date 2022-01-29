@@ -7,3 +7,5 @@
   <li> 🥳 Tenho 22 anos!
   <li> 🎹 Nas horas vagas, tecladista também haha 
 <ul>          
+  [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusxcz&show_icons=true)
+  
